@@ -43,6 +43,7 @@ gem 'jquery-rails', '~> 4.3.1'
 gem 'bootstrap', '~> 4.1.1'
 gem 'summernote-rails', '~> 0.8.10.0'
 gem 'simple_form', '~> 4.1.0'
+gem 'carrierwave'
 
 
 group :development, :test do
